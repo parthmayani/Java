@@ -11,6 +11,8 @@ public class Ifelse {
 			System.out.println("candidate is pass in exam");
 			
 			
+			//2nd
+			
 		}
 		else// false condition
 		
