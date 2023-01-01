@@ -6,40 +6,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/smile/Downloads/IEDriverServer_x64_4.6.0.zip"/>
-	<classpathentry kind="lib" path="F:/selenium-api-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-api-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-chrome-driver-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-chrome-driver-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-chromium-driver-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-chromium-driver-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-devtools-v85-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-devtools-v85-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-devtools-v106-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-devtools-v106-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-devtools-v107-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-devtools-v107-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-devtools-v108-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-devtools-v108-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-edge-driver-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-edge-driver-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-firefox-driver-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-firefox-driver-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-http-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-http-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-ie-driver-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-ie-driver-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-java-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-java-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-json-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-json-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-manager-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-manager-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-remote-driver-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-remote-driver-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-safari-driver-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-safari-driver-4.7.0-sources.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-support-4.7.0.jar"/>
-	<classpathentry kind="lib" path="F:/selenium-support-4.7.0-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
