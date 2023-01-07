@@ -29,6 +29,11 @@ public class C1 {
 	Point p = new Point(400,400);
 driver.manage().window().setPosition(p);
 System.out.println(driver.manage().window().getPosition());
+driver.manage().window().maximize();
+driver.get("https://google.com");
+driver.findElement(By.className("gLFyf")).sendKeys("gg");
+Thread.sleep(2000);
+driver.findElement(By.className("gNO89b")).click();
 	}
 
 }

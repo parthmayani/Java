@@ -15,9 +15,9 @@ public class First {
 		//System.out.println(driver.getTitle());
 	
 	// naviget to url
-		//driver.get("https://www.amazon.in/?&ext_vrnc=hi&tag=googinhydr1-21&ref=pd_sl_98xjxt98l7_b&adgrpid=60639568242&hvpone=&hvptwo=&hvadid=617721280315&hvpos=&hvnetw=g&hvrand=11475472338956621987&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007759&hvtargid=kwd-299123108802&hydadcr=5841_2362028&gclid=CjwKCAiAzKqdBhAnEiwAePEjkq2Pwqhhy2vkQQ88-BHHEjz6niapPqs-Oa8qs2qOr3xeCih3RDjmYRoCdJUQAvD_BwE");
-		//driver.findElement(By.id("twotabsearchtextbox")).sendKeys("T-shirts");
-		//driver.findElement(By.className("<input id=\"nav-search-submit-button\" type=\"submit\" class=\"nav-input nav-progressive-attribute\" value=\"Go\" tabindex=\"0\">")).click();
+		driver.get("https://www.amazon.in/?&ext_vrnc=hi&tag=googinhydr1-21&ref=pd_sl_98xjxt98l7_b&adgrpid=60639568242&hvpone=&hvptwo=&hvadid=617721280315&hvpos=&hvnetw=g&hvrand=11475472338956621987&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007759&hvtargid=kwd-299123108802&hydadcr=5841_2362028&gclid=CjwKCAiAzKqdBhAnEiwAePEjkq2Pwqhhy2vkQQ88-BHHEjz6niapPqs-Oa8qs2qOr3xeCih3RDjmYRoCdJUQAvD_BwE");
+		driver.findElement(By.id("twotabsearchtextbox")).sendKeys("T-shirts");
+		driver.findElement(By.className("<input id=\"nav-search-submit-button\" type=\"submit\" class=\"nav-input nav-progressive-attribute\" value=\"Go\" tabindex=\"0\">")).click();
 		
 	}
 
